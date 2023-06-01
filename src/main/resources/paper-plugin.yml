@@ -1,0 +1,5 @@
+name: FortLisaConfigListener
+version: '${project.version}'
+main: me.fortlisa.fortlisaconfiglistener.ConfigListenerPlugin
+api-version: 1.19
+description: Fort Lisa Config Listener Plugin
